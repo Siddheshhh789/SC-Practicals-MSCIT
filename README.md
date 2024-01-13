@@ -1,0 +1,2 @@
+# SC-Practicals-MSCIT
+ALL PRACTICALS
